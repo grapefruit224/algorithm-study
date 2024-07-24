@@ -24,3 +24,4 @@
 | Week | Problem 1 | Problem 2 | Problem 3 | Problem 4 | Problem 5 | Problem 6 | Problem 7 |
 |------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | Week 1 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [유기농 배추](https://www.acmicpc.net/problem/1012) | [토마토](https://www.acmicpc.net/problem/7576) |[N과 M(9)](https://www.acmicpc.net/problem/15663) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |  [가르침](https://www.acmicpc.net/problem/1062) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
+| Week 2 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | [가장 긴 증가하는 부분수열4](https://www.acmicpc.net/problem/14002) |[팰린드롬?](https://www.acmicpc.net/problem/10942) | [최단경로](https://www.acmicpc.net/problem/1753) |  [특정한 최단경로](https://www.acmicpc.net/problem/1504) | [최소비용](https://www.acmicpc.net/problem/1916) |
