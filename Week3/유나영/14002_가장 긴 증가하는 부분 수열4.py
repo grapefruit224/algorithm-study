@@ -11,6 +11,7 @@ for i in range(N):
 length = max(dp)
 
 for k in range(N-1, -1, -1):
+    # print(f"dp[k]: {dp[k]}")
     if dp[k] == length:
         # print(f"dp[k]:{dp[k]}, length: {length}")
         result.append(numbers[k])
